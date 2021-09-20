@@ -1,0 +1,50 @@
+.sidenav {
+  height: 100%;
+  width: 160px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  background-color: rgba(255, 255, 255, 0.404);
+  padding-top: 20px;
+  z-index: 9;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.image1 {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+.image2 {
+  position: absolute;
+  top: 50px;
+  left: 43px;
+}
+
+.Button-roll {
+  margin: 0;
+  margin-left: 2rem;
+  position: absolute;
+  top: 50%;
+}
+
+.imageDice {
+  margin: 0;
+  margin-left: 2rem;
+  position: absolute;
+  top: 60%;
+  height: 80px;
+  width: auto;
+}

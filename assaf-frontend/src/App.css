@@ -1,0 +1,8 @@
+.container {
+  height: 2000px;
+  width: 4000px;
+  max-width: 3500px;
+  position: absolute;
+
+  background-image: url("./images/VectorSmartObject_0.png");
+}

@@ -1,0 +1,17 @@
+.Treasure-pose {
+  margin-top: 20%;
+  position: absolute;
+}
+.shape-pose {
+  position: absolute;
+}
+.number-pose {
+  position: absolute;
+  margin-left: 40px;
+  margin-top: 30px;
+}
+
+div {
+  margin: 0;
+  padding: 0;
+}
